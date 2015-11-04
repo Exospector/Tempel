@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: asteroid.jpg (8192 x 4096)
+# $TexturePacker:SmartUpdate:b792c28483a3a9f57b98d5805e3546aa:3d725ae1fe507bff1a4c50c89f4dae9c:5b3402bf1b239c1f03acabdcc883ce87$
+#
+
+asteroid0;2;3070;2048;1024;0.5;0.5
+asteroid12;2;2044;2048;1024;0.5;0.5
+asteroid13;2;1018;2048;1024;0.5;0.5
+asteroid15;2052;3070;2048;1024;0.5;0.5
+asteroid2;4102;3070;2048;1024;0.5;0.5
+asteroid5;2052;2044;2048;1024;0.5;0.5
+asteroid7;2052;1018;2048;1024;0.5;0.5
+asteroid9;4102;2044;2048;1024;0.5;0.5

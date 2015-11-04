@@ -1,0 +1,33 @@
+Colonisation humaine : Tours, dôme
+Variantes : Expédition scientifique, vaisseau de colonisation perdu,
+vaisseau prison banni de la société, groupe industriel à la recherche de ressources rares,
+Expédition militaire pour établir un avant-poste.
+Images : http://www.nss.org/settlement/calendar/2009/MurphyElliott-ME0070C-650.jpg
+	 http://www.nss.org/settlement/calendar/roadmap/Voinea-Asteroids18_650.jpg
+	 http://conceptartworld.com/wp-content/uploads/2008/12/John_Liberto_Concept_Art_SpaceShip_02.jpg
+	 http://conceptartworld.com/wp-content/uploads/2008/12/John_Liberto_Concept_Art_SpaceShip_01.jpg
+
+En sous-sol
+
+Arrivée en téléportation imprécise : êtres cristallins, couleurs différentes,
+se planter dans un astéroide pour récupérer des ressources et grandir, séparation
+en plusieurs sous-êtres soumis à la même conscience collective. Objectif : Accumuler
+l'énergie nécessaire à une nouvelle téléportation. 3 fonctions : Se nourrir,
+se défendre, se reproduire. Téléportation très couteuse. Pacifiste jusqu'à aggression.
+Image : http://i.imgur.com/n1NAW9s.jpg
+
+Race habituée a l'existence dans l'espace, ils préfèrent consruire des habitations orbitales
+plutôt que de se poser sur les astéroides de manière durable. Attachement à un endroit donné.
+Territorialistes et individualistes. Constructions orbitales non verticales : sphères, dômes.
+Arrivée via un vaisseau tracant un embryon de colonie orbitale.
+Image : http://www.egosoft.com/games/x_rebirth/screenshots/x_rebirth_screen_035.jpg
+
+IA : Coeur décisionnel fixe (Ou presque), unités relais servant de chefs d'escouades,
+drones spécialisés : Attaque, défense, récolte, reconaissance.
+
+____________________________________________________
+CONCEPT
+
+Serveur qui contient la simulation.
+Clients qui se connectent au serveur, et influent sur la simulation : dévier la trajectoire d'un astéroide sur plusieurs heures,
+orienter les recherches d'une civilisation, etc...
