@@ -21,14 +21,10 @@ public class OrbitSpawner : MonoBehaviour
 	{
 		if(target != null)
 		{
-			rotation += orbitDegrees;
+			//rotation += orbitDegrees;
 			if(rotation < 358)
 			{
 				transform.RotateAround(target.position, Vector3.up, orbitDegrees);
-			}
-			else
-			{
-				over = true;
 			}
 		}
 	}
